@@ -1,13 +1,14 @@
-# 🚗FiveM Car Pack
+# 🚗FiveM Car Pack ( 174 cars)
 
 ## ⭐CREDITS / ❗Copyright
 Hey, the cars were NOT created by me, but by them:
 - 00AbOlFaZl00 
-- ahmeda1999
+- [ahmeda1999](https://de.gta5-mods.com/users/ahmeda1999)
 - Gx_Lover
-- NoHz
-- Rmod Customs
+- [NoHz](https://www.gta5-mods.com/users/NoHz)
+- [Rmod Customs](https://de.gta5-mods.com/users/Rmod%20Customs)
 - and more...
+- I don't know from which people I downloaded the cars.
 
 **If you are also one of the creators, simply create a pull request!**
 
@@ -213,7 +214,3 @@ start VW_Golf_Mk4
 start VW_Golf_Mk7_R
 start VW_Touareg_R50
 ```
-
-## ℹ️Information
-This resource was edited by me
-**If you are on of these creators, please create a Pull Request!**
