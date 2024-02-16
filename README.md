@@ -1,6 +1,18 @@
-# 🚗FiveM Car Pack ( 174 cars)
+<h1 align="center">🚗FiveM Car Pack ( 174 cars)</h1>
+<p align="center">
+    <img alt="" src="https://img.shields.io/github/stars/Zerofour04/FiveM-BigCarPack.svg?style=for-the-badge">
+    <img alt="" src="https://madewithlove.now.sh/de?heart=true&colorB=%23ec2237&template=for-the-badge">
+    <img alt="" src="https://img.shields.io/github/followers/Zerofour04.svg?style=for-the-badge&label=Follow&maxAge=2592000">
+</p>
 
-## ⭐CREDITS / ❗Copyright
+## ℹ️Information
+- Hey everyone! Two years ago, a friend and I created this car pack and decided to share it with the community.
+- We put a lot of effort into providing a diverse selection of cars.
+- I'd also like to mention that the content of this pack is mainly sourced from 5MODS, as there hasn't been a comparable package available until now. A big thank you to the original creators for their fantastic work! Feel free to contact me if there are specific contents you'd like to have removed!
+- If you enjoy it, please consider giving it a ⭐️ star!
+- I made this FiveM Carpack as I made all these cars FiveM Ready and set them to the realistic speed. **Every car drives as fast as in real life!**
+
+## 💌Credits
 Hey, the cars were NOT created by me, but by them:
 - 00AbOlFaZl00 
 - [ahmeda1999](https://de.gta5-mods.com/users/ahmeda1999)
@@ -13,31 +25,18 @@ Hey, the cars were NOT created by me, but by them:
 **If you are also one of the creators, simply create a pull request!**
 
 ## ⚠️License
-**If you are a creator and don't want the vehicles to be here on GitHub, just create an issue and pull request!**
-
-Since we have invested a lot of time in the car, here is the license:
-
-**Copyright (c) 2022 Ben // Zerofour // 04**
-
-**✅You're allowed:**
-- to modify the vehicles
-- to share the vehicles
-- for private use
-
-**❌You're NOT ALLOWED:**
-- to upload the resource somewhere else
-- for commercial use
-
-!!!RESPECT THE WORK OF THE CREATORS AND DON'T UPLOAD IT ANYWHERE ELSE!!!
-
-## ℹ️Information / Modification:
-Hey, I made this FiveM Carpack as I made all these cars FiveM Ready and set them to the realistic speed. Every car drives as fast as in real life!
-
+- **If you are a creator and don't want the vehicles to be here on GitHub, just create an issue and pull request!**
+- Since we have invested a lot of time in the car, here is the license: [LICENSE](LICENSE)
 
 ## ⬇️Downloadlink:
 ➡️https://drive.google.com/file/d/1ZkERXIxLFY9urkGbhTAbviSvJiuqmhw5/view?usp=sharing
 
-## Server.cfg / Cars:
+## 📋Download & 🛠️Installation
+```
+start Fivem-CarRims-Pack
+```
+
+### Server.cfg / Cars:
 ```
 start Abarth_124
 start AlfaRomeo_155_Q4
